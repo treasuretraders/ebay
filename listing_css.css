@@ -116,7 +116,7 @@
 			float: left;
 			font-size: 14pt;
 			font-weight: 400;
-			font-family: 'Fira Sans', sans-serif;
+			font-family: Arial, sans-serif;
 		}
 
 		#product_related_info div
@@ -134,7 +134,7 @@
 
 			font-size: 14pt;
 			font-weight: 400;
-			font-family: Helvetica, Sans;
+			font-family: Arial, sans-serif;
 
 			padding: 2rem;
 		}
@@ -171,7 +171,7 @@
 	{
 		*
 		{
-			font-family: 'Fira Sans', sans-serif;
+			font-family: Arial, sans-serif;
 		}
 
 		#wrapper
